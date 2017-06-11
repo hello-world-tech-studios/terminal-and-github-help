@@ -1,6 +1,6 @@
 # Terminal and GitHub Help!
-| Commands               |      What They Do                                  |
-|------------------------|:--------------------------------------------------:|
+| Commands                          |      What They Do                                  |
+|-----------------------------------|----------------------------------------------------|
 | `ls`                              | lists everything in the directory                  |
 | `cd directory_name`               | Changes to the given directory                     |
 | `cd ..`                           | Moves one level up from the current directory      |
@@ -14,7 +14,7 @@
 
 
 
-Here are the steps you will be following everday:
+Here are the steps you follow everday:
 1) Navigate to the Desktop in the terminal using `cd` and `ls`
 2) Once you are in the Desktop, `git clone exercise-url`
 3) Checkout a branch with your name `git checkout -b "your-name"`
