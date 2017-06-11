@@ -14,11 +14,11 @@
 
 
 
-Here are the steps you follow everday:
+## Here are the steps you follow everday:
 1) Navigate to the Desktop in the terminal using `cd` and `ls`
 2) Once you are in the Desktop, `git clone exercise-url`
 3) Checkout a branch with your name `git checkout -b "your-name"`
 4) Work through the exercise!!!
-5) Everytime you complete a section use `git add -A`, then `git commit -m "complete part 1"`
+5) Everytime you complete a section use `git add -A`, then `git commit -m "Add form to HTML"`
 6) When you are done working on the exercise `git push origin "branch-name"`
 7) Look on GitHub to make sure your branch is there!
